@@ -1,0 +1,58 @@
+/* FUENTES */
+/* NotoSans */
+
+@font-face {
+	font-family: NotoSans-Black;
+	src: url(Noto_Sans/NotoSans-Black.ttf) format("opentype");
+}
+
+@font-face {
+	font-family: NotoSans-Bold;
+	src: url(Noto_Sans/NotoSans-Bold.ttf) format("opentype");
+}
+@font-face {
+	font-family: NotoSans-ExtraBold;
+	src: url(Noto_Sans/NotoSans-ExtraBold.ttf) format("opentype");
+}
+
+@font-face {
+	font-family: Geomanist-Thin;
+	src: url(Noto_Sans/NotoSans-Thin.ttf) format("opentype");
+}
+
+@font-face {
+	font-family: NotoSans-ExtraLight;
+	src: url(Noto_Sans/NotoSans-ExtraLight.ttf) format("opentype");
+}
+
+@font-face {
+	font-family: NotoSans-Light;
+	src: url(Noto_Sans/NotoSans-Light.ttf) format("opentype");
+}
+
+@font-face {
+	font-family: NotoSans-Medium;
+	src: url(Noto_Sans/NotoSans-Medium.ttf) format("opentype");
+}
+
+@font-face {
+	font-family: NotoSans-Regular-Italic;
+	src: url(Noto_Sans/NotoSans-Italic.ttf) format("opentype");
+}
+@font-face {
+	font-family: NotoSans-BoldItalic;
+	src: url(Noto_Sans/NotoSans_SemiCondensed-BoldItalic.ttf) format("opentype");
+}
+
+@font-face {
+	font-family: NotoSans-Regular;
+	src: url(Noto_Sans/NotoSans-Regular.ttf) format("opentype");
+}
+@font-face {
+	font-family: NotoSans-Thin;
+	src: url(Noto_Sans/NotoSans-Thin.ttf) format("opentype");
+}
+@font-face {
+	font-family: NotoSans-Medium;
+	src: url(Noto_Sans/NotoSans-Medium.ttf) format("opentype");
+}

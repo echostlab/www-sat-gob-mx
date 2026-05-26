@@ -1,0 +1,1 @@
+import{s}from"../chunks/scheduler.dd7b8fdc.js";import{S as e,i as t}from"../chunks/index.06fe1483.js";/* empty css                                                       */class n extends e{constructor(e){super(),t(this,e,null,null,s,{})}}export{n as component};

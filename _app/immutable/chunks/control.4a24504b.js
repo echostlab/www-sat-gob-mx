@@ -1,0 +1,1 @@
+class s{constructor(s,t){this.status=s,this.body="string"==typeof t?{message:t}:t||{message:`Error: ${s}`}}toString(){return JSON.stringify(this.body)}}class t{constructor(s,t){this.status=s,this.location=t}}export{s as H,t as R};
